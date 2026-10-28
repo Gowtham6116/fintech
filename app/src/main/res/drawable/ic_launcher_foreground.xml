@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield emblem background -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,22 C68,22 78,26 80,31 C80,56 68,74 54,84 C40,74 28,56 28,31 C30,26 40,22 54,22 Z" />
+    <!-- Inner shield highlight -->
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M54,26 C65,26 74,29 75,34 C75,54 65,69 54,78 C43,69 33,54 33,34 C34,29 43,26 54,26 Z" />
+    <!-- Rupee symbol (₹) centered in shield -->
+    <!-- Top bar -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M43,36 H65 V39 H43 Z" />
+    <!-- Second bar -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M43,42 H63 V45 H43 Z" />
+    <!-- Curved spine and loop -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,36 V54 H52 C57,54 60,51 60,47 C60,43 57,40 52,40 H48 Z M52,51 H51 V43 H52 C54.5,43 56.5,44.5 56.5,47 C56.5,49.5 54.5,51 52,51 Z" />
+    <!-- Diagonal leg -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M50,51 L63,68 H58 L46,52 Z" />
+    <!-- Dynamic growth arrow accent -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M65,30 L73,30 L73,38 L69.5,34.5 L60,44 L57,41 L66.5,31.5 Z" />
+</vector>

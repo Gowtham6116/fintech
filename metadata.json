@@ -1,0 +1,6 @@
+{
+  "name": "FinGuide",
+  "description": "Manage Money. Discover Resources. Build a Better Future. Complete personal finance & verified resource discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
